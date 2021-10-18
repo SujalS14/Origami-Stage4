@@ -12,6 +12,12 @@ body{
     margin: 0px;
     background-color: #a72b2b;
 }
+.grid{ 
+    display: flex; 
+    flex-wrap: wrap; 
+    margin: 40px; 
+    font-family: sans-serif; 
+}
 .grid img{
     border: 2px solid #000000;
     border-radius: 50px;
